@@ -18,7 +18,7 @@ https://doi.org/10.3390/geotechnics4040053
 
 Montejo, L.A. 2021. "Response spectral matching of horizontal ground motion 
 components to an orientation-independent spectrum (RotDnn)."
-Earthquake Spectra, 37(2), 1127-1144.
+Earthquake Spectra, 37(2), 1127-1144. https://doi.org/10.1177/8755293020970981
 
 ========
 
