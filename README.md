@@ -8,7 +8,7 @@ luis.montejo@upr.edu
 
 References:
     
-Montejo, L.A. (2025), Generation of Response Spectrum Compatible Records Satisfying 
+Montejo, L.A. 2025, Generation of Response Spectrum Compatible Records Satisfying 
 a Minimum Power Spectral Density Function. Earthquake Engineering and Resilience. 
 https://doi.org/10.1002/eer2.70008
     
