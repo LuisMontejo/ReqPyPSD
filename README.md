@@ -13,6 +13,11 @@ https://doi.org/10.1002/eer2.70008
 cite the code:
 
 [![DOI](https://zenodo.org/badge/1004385158.svg)](https://doi.org/10.5281/zenodo.15691490)
+
+see the video:
+
+https://youtu.be/ws7TME3iJRk?si=tScTOY9BdAO-bAgF
+
 ========
 
 References:
