@@ -4,6 +4,15 @@ ReqPyPSD_Module
 
 luis.montejo@upr.edu
 
+cite the paper:
+
+Montejo, L.A. 2025. "Generation of Response Spectrum Compatible Records Satisfying 
+a Minimum Power Spectral Density Function." Earthquake Engineering and Resilience. 
+https://doi.org/10.1002/eer2.70008
+
+cite the code:
+
+[![DOI](https://zenodo.org/badge/1004385158.svg)](https://doi.org/10.5281/zenodo.15691490)
 ========
 
 References:
