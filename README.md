@@ -1,3 +1,8 @@
+# ⚠️ DEPRECATED ⚠️
+**This repository is no longer maintained.**
+All functionality (including PSD checks) has been merged into **[ReqPy](https://github.com/LuisMontejo/REQPY)**.
+Please use the new module for all future work.
+
 # ReqPyPSD
 Generation of Response Spectrum Compatible Records Satisfying  a Minimum Power Spectral Density Function
 ReqPyPSD_Module
